@@ -7,7 +7,7 @@ Users can create, view, update, and delete trips. Each trip includes a budget an
 
 ## 📽️ Project Demo
 
-🎥 **Video Walkthrough:** [Click to Watch](https://drive.google.com/file/d/1RB7BP1WxMh0s6V5OdkEy42UoD_ERAfI5/view?usp=sharing)
+🎥 **Video Walkthrough:** [Click to Watch](https://drive.google.com/file/d/1CB1jdoWNtay7-uDb_MuU5L1sIO-TnA34/view?usp=sharing)
 
 ---
 
